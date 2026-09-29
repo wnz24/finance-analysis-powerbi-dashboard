@@ -9,7 +9,8 @@
 ![Power Query](https://img.shields.io/badge/Power_Query-107C10?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Star_Schema-6B69D6?style=for-the-badge)
 
-![Overview Analysis](images/overview-analysis.png)
+![Overview Analysis](images/overview.png)
+![Transactions Analysis](images/transactions.png)
 
 </div>
 
